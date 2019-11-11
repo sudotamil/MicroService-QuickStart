@@ -1,0 +1,4 @@
+/home/bigtapp/projects/Microservices/currency-exchange-service/src/main/java/com/me/currencyexchangeservice/controller/CurrencyExchangeController.java
+/home/bigtapp/projects/Microservices/currency-exchange-service/src/main/java/com/me/currencyexchangeservice/dto/ExchangeValue.java
+/home/bigtapp/projects/Microservices/currency-exchange-service/src/main/java/com/me/currencyexchangeservice/CurrencyExchangeServiceApplication.java
+/home/bigtapp/projects/Microservices/currency-exchange-service/src/main/java/com/me/currencyexchangeservice/dto/ExchangeValueRepository.java

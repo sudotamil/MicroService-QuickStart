@@ -1,0 +1,2 @@
+#Install RabbitMp up and running
+RABBIT_URI=amqp://localhost java -jar zipkin.jar

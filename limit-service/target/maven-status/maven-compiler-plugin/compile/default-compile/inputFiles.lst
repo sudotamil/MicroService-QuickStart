@@ -1,0 +1,4 @@
+/home/bigtapp/projects/Microservices/limit-service/src/main/java/com/me/limitservice/controller/configuration/Configuration.java
+/home/bigtapp/projects/Microservices/limit-service/src/main/java/com/me/limitservice/controller/dto/LimitConfiguration.java
+/home/bigtapp/projects/Microservices/limit-service/src/main/java/com/me/limitservice/controller/LimitConfigurationController.java
+/home/bigtapp/projects/Microservices/limit-service/src/main/java/com/me/limitservice/LimitServiceApplication.java

@@ -1,0 +1,4 @@
+com/me/limitservice/controller/dto/LimitConfiguration.class
+com/me/limitservice/controller/LimitConfigurationController.class
+com/me/limitservice/controller/configuration/Configuration.class
+com/me/limitservice/LimitServiceApplication.class

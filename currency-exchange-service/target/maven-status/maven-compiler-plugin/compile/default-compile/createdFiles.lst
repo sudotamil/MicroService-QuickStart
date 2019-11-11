@@ -1,0 +1,4 @@
+com/me/currencyexchangeservice/CurrencyExchangeServiceApplication.class
+com/me/currencyexchangeservice/dto/ExchangeValueRepository.class
+com/me/currencyexchangeservice/controller/CurrencyExchangeController.class
+com/me/currencyexchangeservice/dto/ExchangeValue.class
