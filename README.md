@@ -1,8 +1,8 @@
 # MicroService-QuickStart
-A Java based implementation of Microservice with sample use case.
+A Java based implementation of Microservice Architecure with sample use case.
 
 **Required tools/software/framework:**
-Java
+Java \n
 Maven (Build Tool)
 Spring Boot
 Spring Data JPA
