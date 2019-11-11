@@ -7,6 +7,7 @@ Maven (Build Tool)
 Spring Boot
 Spring Data JPA
 GIT
+H2 ( In Memory database)
 Spring cloud config ( Configuation Manager )
 Netflix Eureka Naming Server ( Naming server - Service Registry )
 Zipkin ( Log Tracing)
