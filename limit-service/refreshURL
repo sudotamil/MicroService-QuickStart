@@ -1,0 +1,6 @@
+POST METHOD
+
+http://localhost:8080/actuator/refresh
+
+Add spring cloud bus in pom and hit below URL
+http://localhost:8081/actuator/bus-refresh
